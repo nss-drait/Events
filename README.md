@@ -14,6 +14,7 @@
             <tr> <td><a href="./ECO-FRIENDLY DEEPAWALI/">8. ECO-FRIENDLY DEEPAWALI</td><td>10<sup>th</sup> NOV 2023</td></tr>
             <tr> <td><a href="./CONSTITUTION DAY/">9. CONSTITUTION DAY</td><td>26<sup>th</sup> NOV 2023</td></tr>
             <tr> <td><a href="./NSS CAMP - BOODIPADAGA/">10. NSS CAMP - BOODIPADAGA</td><td>11<sup>th</sup> - 13<sup>th</sup> JAN 2024</td></tr>
+            <tr> <td><a href="./REPUBLIC DAY/">11. REPUBLIC DAY</td><td>26<sup>th</sup> JAN 2024</td></tr>
         </table>
 </b>
 </center>
