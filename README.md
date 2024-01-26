@@ -13,10 +13,17 @@
             <tr> <td><a href="./VOLUNATRY BLOOD DONATION CAMP/">7. VOLUNATRY BLOOD DONATION CAMP</td><td>27<sup>th</sup> JULY 2023</td></tr>
             <tr> <td><a href="./ECO-FRIENDLY DEEPAWALI/">8. ECO-FRIENDLY DEEPAWALI</td><td>10<sup>th</sup> NOV 2023</td></tr>
             <tr> <td><a href="./CONSTITUTION DAY/">9. CONSTITUTION DAY</td><td>26<sup>th</sup> NOV 2023</td></tr>
-            <tr> <td><a href="./NSS CAMP - BOODIPADAGA/">10. NSS CAMP - BOODIPADAGA</td><td>11<sup>th</sup> -13<sup>th</sup> JAN 2024</td></tr>
+            <tr> <td><a href="./NSS CAMP - BOODIPADAGA/">10. NSS CAMP - BOODIPADAGA</td><td>11<sup>th</sup> - 13<sup>th</sup> JAN 2024</td></tr>
         </table>
 </b>
 </center>
+
+        Structure of each folder:
+            -> Certificate folders (Volunteering and Participation)
+            -> Photos
+            -> Attendence List
+            -> Event Report
+            -> README.md
 
 <center>
 
